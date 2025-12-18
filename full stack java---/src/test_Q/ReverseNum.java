@@ -1,6 +1,6 @@
 package test_Q;
 
-public class Example1 {
+public class ReverseNum {
 	
 	public void getAdd(int num) {
 		
@@ -14,7 +14,7 @@ public class Example1 {
 	}
 
 	public static void main(String[] args) {
-		Example1 obj =new Example1();
+		ReverseNum obj =new ReverseNum();
 		obj.getAdd(23444);
 		
 				

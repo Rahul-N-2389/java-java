@@ -1,6 +1,6 @@
 package test_Q;
 
-public class Example3 {
+public class Factorial {
 	
 	public void getAdd() {
 		
@@ -19,7 +19,7 @@ public class Example3 {
 	}
 
 	public static void main(String[] args) {
-		Example3 obj =new Example3();
+		Factorial obj =new Factorial();
 		obj.getAdd();
 		
 				

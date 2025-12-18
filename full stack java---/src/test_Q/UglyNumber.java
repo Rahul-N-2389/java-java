@@ -21,9 +21,9 @@ public class UglyNumber {
 
 	public static void main(String[] args) {
 		UglyNumber obj = new UglyNumber();
-		for(int i=1;i<=100;i++) {
+		for(int i=1;i<=50;i++) {
 			if(obj.checkUgly(i)) {
-				System.out.println(i);
+				System.out.print(i+" ");
 			}
 			
 			

@@ -1,6 +1,6 @@
 package test_Q;
 
-public class Example2 {
+public class SumNum {
 	
 	public void getAdd(int num) {
 		
@@ -14,7 +14,7 @@ public class Example2 {
 	}
 
 	public static void main(String[] args) {
-		Example2 obj =new Example2();
+		SumNum obj =new SumNum();
 		obj.getAdd(23444);
 		
 				
