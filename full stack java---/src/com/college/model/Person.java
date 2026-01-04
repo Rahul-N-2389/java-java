@@ -41,10 +41,4 @@ public class Person {
 		this.contactNumber = contactNumber;
 	}
 
-	public void getPerson() {
-		System.out.println(" Student Name : " + name);
-		System.out.println(" Student Age : " + age);
-		System.out.println(" Student contact Number : " + contactNumber);
-	}
-
 }

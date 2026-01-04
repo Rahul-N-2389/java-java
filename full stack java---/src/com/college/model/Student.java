@@ -40,7 +40,6 @@ public class Student extends Person {
 	}
 
 	public void displayDetails (Person person) {
-//		person.getPerson();
 		
 		System.out.println(" Student Name : "+person.getName());
 		System.out.println(" Student Age : "+person.getAge());
