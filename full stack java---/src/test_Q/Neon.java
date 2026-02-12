@@ -1,4 +1,4 @@
-package loops;
+package test_Q;
 
 public class Neon {
 	public boolean getNeon(int num) {

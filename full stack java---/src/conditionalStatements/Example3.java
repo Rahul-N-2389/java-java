@@ -17,7 +17,7 @@ public class Example3 {
 
 	public static void main(String[] args) {
 				Example3 obj=new Example3();
-				System.out.println("Can vote Age 17?"+obj.canVote(17));
+				System.out.println("Can vote Age 17? \n"+obj.canVote(17));
 			
 	}
 
