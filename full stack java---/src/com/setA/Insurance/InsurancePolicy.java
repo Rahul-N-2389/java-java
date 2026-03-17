@@ -91,8 +91,8 @@ class InsuranceMain extends InsurancePolicy {
 		double AppoAmount = sc.nextDouble();
 		
 		
+		String PolStatus = " ";
 		if(AppoAmount<0) {
-			String PolStatus = " ";
 			System.out.println(" Invalid Amount ");	
 		}else {
 			
